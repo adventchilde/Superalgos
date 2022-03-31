@@ -5,6 +5,8 @@
 ![last-commit](https://img.shields.io/github/last-commit/Superalgos/Superalgos/develop?label=last%20commit%20to%20develop)
 ![bot-friendliness](https://img.shields.io/badge/Bot%20Friendliness%20Level-119%25-yellow)
 
+Hello! This is my readme.
+
 Superalgos is not just another open-source project. We are an open and welcoming community devised, nurtured, and incentivized with the project's native <a href="https://superalgos.org/token-overview.shtml" target="_blank">Superalgos (SA) Token</a> to build an <a href="https://superalgos.org/" target="_blank">open trading intelligence network</a>.
 
 You will notice the difference as soon as you join the [Telegram Community Group](https://t.me/superalgoscommunity) or the new [Discord Server](https://discord.gg/CGeKC6WQQb)!
